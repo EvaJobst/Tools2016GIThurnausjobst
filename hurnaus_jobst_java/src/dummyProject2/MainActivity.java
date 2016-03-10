@@ -4,6 +4,6 @@ package dummyProject2;
 public class MainActivity {
 
 	public void thisIsANewMehod() {
-		
+		String new = "";
 	}
 }
