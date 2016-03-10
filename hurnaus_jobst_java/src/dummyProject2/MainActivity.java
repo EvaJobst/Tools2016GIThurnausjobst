@@ -7,4 +7,8 @@ public class MainActivity {
 		int x = 10 + 10;		
 		String new = "";
 	}
+	
+	public String toString() {
+		
+	}
 }
