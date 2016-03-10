@@ -10,6 +10,6 @@ public class MainActivity {
 		// bugfixing
 		int y = x - 10;
 		int z = x + y * x;
-
+		int final = x + y + z;
 	}
 }
