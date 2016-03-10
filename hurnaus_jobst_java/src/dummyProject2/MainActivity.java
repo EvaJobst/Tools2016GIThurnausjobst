@@ -8,9 +8,15 @@ public class MainActivity {
 		int[] array = new int[size];
 	}
 
-	public void thisIsANewMehod() {
+	public void thisIsANewMethod() {
 		int x = 10 + 10;		
 		String str = "!";
+		String new = "";
+		
+		// bugfixing
+		int y = x - 10;
+		int z = x + y * x;
+		int final = x + y + z;
 	}
 	
 	public String toString() {
