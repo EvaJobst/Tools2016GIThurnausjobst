@@ -5,10 +5,11 @@ public class MainActivity {
 
 	public void thisIsANewMehod() {
 		int x = 10 + 10;		
-		String new = "";
+		String str = "!";
 	}
 	
 	public String toString() {
-		
+		String ret = "";
+		return ret;
 	}
 }
