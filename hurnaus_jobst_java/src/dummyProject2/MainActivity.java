@@ -6,5 +6,8 @@ public class MainActivity {
 	public void thisIsANewMehod() {
 		int x = 10 + 10;		
 		String new = "";
+		
+		// bugfixing
+		int y = x - 10;
 	}
 }
