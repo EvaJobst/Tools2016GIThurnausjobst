@@ -23,4 +23,8 @@ public class MainActivity {
 		String ret = "";
 		return ret;
 	}
+	
+	public void getMessage() {
+		System.out.println("HalloHallo");
+	}
 }
